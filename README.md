@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Florian Darras</h1>
 
-<div style="display:flex; align-content: center; justify-content: center; background-color: #78d7f6">
-    <img src="https://i.ibb.co/HKLVW96/DALL-E-2024-01-02-20-07-28-An-image-with-a-background-color-of-HTML-code-282828-In-the-center-there.png" height="500">
+<div style="display:flex; align-content: center; justify-content: center; background-color: #201154">
+    <img src="https://i.ibb.co/rff6rgT/DALL-E-2024-01-03-01-45-22-A-software-developer-sitting-on-a-chair-behind-a-desk-with-a-computer-scr.png" height="500">
 </div>
 
 <h3 align="center">I'm a 21 year old passionate software developer from Montréal 🇨🇦</h3>
 
 <p> 
-    <img src="https://komarev.com/ghpvc/?username=stollpy&label=Profile%20views&color=0e75b6&style=flat" alt="stollpy" /> 
+    <img src="https://komarev.com/ghpvc/?username=stollpy&label=Profile%20views&color=28004f&style=flat" alt="stollpy" /> 
 </p>
 
 <p>
-    <img src="https://github-profile-trophy.vercel.app/?username=stollpy&theme=onedark" alt="stollpy" />
+    <img src="https://github-profile-trophy.vercel.app/?username=stollpy&theme=dracula" alt="stollpy" />
 </p>
 
 - 🔭 I currently work for **[Panierdachat](www.panierdachat.com)**
@@ -126,9 +126,9 @@
 
 ### 📊 Stats
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=stollpy&theme=gruvbox&border_radius=4.5" alt="stollpy" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=stollpy&theme=dracula&border_radius=4.5" alt="stollpy" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stollpy&show_icons=true&theme=gruvbox" alt="stollpy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stollpy&show_icons=true&theme=dracula" alt="stollpy" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stollpy&show_icons=true&layout=compact&theme=gruvbox" alt="stollpy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stollpy&show_icons=true&layout=compact&theme=dracula" alt="stollpy" /></p>
 
