@@ -1,9 +1,16 @@
 <h1 align="center">Hi 👋, I'm Florian Darras</h1>
+
+<div style="display:flex; align-content: center; justify-content: center; background-color: #78d7f6">
+    <img src="https://i.ibb.co/HKLVW96/DALL-E-2024-01-02-20-07-28-An-image-with-a-background-color-of-HTML-code-282828-In-the-center-there.png" height="500">
+</div>
+
 <h3 align="center">I'm a 21 year old passionate software developer from Montréal 🇨🇦</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=stollpy&label=Profile%20views&color=0e75b6&style=flat" alt="stollpy" /> </p>
+<p> 
+    <img src="https://komarev.com/ghpvc/?username=stollpy&label=Profile%20views&color=0e75b6&style=flat" alt="stollpy" /> 
+</p>
 
-<p align="left">
+<p>
     <img src="https://github-profile-trophy.vercel.app/?username=stollpy&theme=onedark" alt="stollpy" />
 </p>
 
@@ -17,17 +24,17 @@
 
 - ⚡ Fun fact **I was 4th in France in sport shooting**
 
-<h3 align="left">Connect with me:</h3>
+<h3>Connect with me:</h3>
 
-<p align="left">
+<p>
     <a href="https://linkedin.com/in/florian-darras-11500a208" target="blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="florian-darras-11500a208" height="30" width="40" />
     </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
-<p align="left"> 
+<p> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
     </a> 
@@ -117,9 +124,9 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stollpy&show_icons=true&layout=compact&theme=gruvbox" alt="stollpy" /></p>
+<p><img align="left" src="https://streak-stats.demolab.com/?user=stollpy&theme=gruvbox&border_radius=4.5" alt="stollpy" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stollpy&show_icons=true&theme=gruvbox" alt="stollpy" /></p>
 
-<p><img align="center" src="https://streak-stats.demolab.com/?user=stollpy&theme=gruvbox&border_radius=4.5" alt="stollpy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stollpy&show_icons=true&layout=compact&theme=gruvbox" alt="stollpy" /></p>
 
