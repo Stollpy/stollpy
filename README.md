@@ -24,7 +24,7 @@
 
 - ⚡ Fun fact **I was 4th in France in sport shooting**
 
-<h3>Connect with me:</h3>
+### Connect with me:
 
 <p>
     <a href="https://linkedin.com/in/florian-darras-11500a208" target="blank">
@@ -32,7 +32,7 @@
     </a>
 </p>
 
-<h3>Languages and Tools:</h3>
+### Languages and Tools:
 
 <p> 
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -123,6 +123,8 @@
         <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/>
     </a>
 </p>
+
+### 📊 Stats
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=stollpy&theme=gruvbox&border_radius=4.5" alt="stollpy" /></p>
 
