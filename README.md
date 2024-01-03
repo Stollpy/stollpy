@@ -14,11 +14,11 @@
     <img src="https://github-profile-trophy.vercel.app/?username=stollpy&theme=onedark" alt="stollpy" />
 </p>
 
-- 🔭 I currently work for [Panierdachat](www.panierdachat.com)
+- 🔭 I currently work for **[Panierdachat](www.panierdachat.com)**
 
 - 🌱 I’m currently learning **C++**
 
-- 👯 My current personal project is [Parties](https://github.com/Stollpy/parties-v1-api/)
+- 👯 My current personal project is **[Parties](https://github.com/Stollpy/parties-v1-api/)**
 
 - 📫 How to reach me **florian@panierdachat.com or LinkedIn**
 
