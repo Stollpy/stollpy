@@ -124,9 +124,9 @@
     </a>
 </p>
 
-<p><img align="left" src="https://streak-stats.demolab.com/?user=stollpy&theme=gruvbox&border_radius=4.5" alt="stollpy" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=stollpy&theme=gruvbox&border_radius=4.5" alt="stollpy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stollpy&show_icons=true&theme=gruvbox" alt="stollpy" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stollpy&show_icons=true&theme=gruvbox" alt="stollpy" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stollpy&show_icons=true&layout=compact&theme=gruvbox" alt="stollpy" /></p>
 
