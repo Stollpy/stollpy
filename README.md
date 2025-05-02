@@ -14,7 +14,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=stollpy&theme=dracula" alt="stollpy" />
 </p>
 
-- 🔭 I currently work for **[Laradev](https://laradev.ca)**
+- 🔭 I currently work for **[Paratus Medical](https://paratusmedical.com)**
 
 - 🌱 I’m currently learning **C++**
 
