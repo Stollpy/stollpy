@@ -18,7 +18,7 @@
 
 - 🤝 My first Flutter open source package **[Flutter Secure Storage](https://github.com/Stollpy/flutter_secure_storage)**
 
-- 📫 How to reach me **florian.darras@ezresus.com or LinkedIn**
+- 📫 How to reach me **florian.darras@ezresus.com or [LinkedIn](https://www.linkedin.com/in/florian-darras-11500a208/)**
 
 - ⚡ Fun fact **I was 4th in France in sport shooting**
 
