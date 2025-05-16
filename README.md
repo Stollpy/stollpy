@@ -18,9 +18,7 @@
 
 - 🤝 My first Flutter open source package **[Flutter Secure Storage](https://github.com/Stollpy/flutter_secure_storage)**
 
-- 👯 My current personal project is **[Parties](https://github.com/Stollpy/parties-v1-api/)**
-
-- 📫 How to reach me **florian@panierdachat.com or LinkedIn**
+- 📫 How to reach me **florian.darras@ezresus.com or LinkedIn**
 
 - ⚡ Fun fact **I was 4th in France in sport shooting**
 
