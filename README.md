@@ -16,8 +16,6 @@
 
 - 🔭 I currently work for **[Paratus Medical](https://paratusmedical.com)**
 
-- 🌱 I’m currently learning **C++**
-
 - 🤝 My first Flutter open source package **[Flutter Secure Storage](https://github.com/Stollpy/flutter_secure_storage)**
 
 - 👯 My current personal project is **[Parties](https://github.com/Stollpy/parties-v1-api/)**
