@@ -13,10 +13,6 @@
     <img src="https://komarev.com/ghpvc/?username=stollpy&label=Profile%20views&color=28004f&style=flat" alt="stollpy" /> 
 </p>
 
-<p>
-    <img src="https://github-profile-trophy.vercel.app/?username=stollpy&theme=dracula" alt="stollpy" />
-</p>
-
 - 🔭 I currently work for **[Paratus Medical](https://paratusmedical.com)**
 
 - 📫 How to reach me **florian.darras@paratusmedical.com or [LinkedIn](https://www.linkedin.com/in/florian-darras-11500a208/)**
@@ -105,8 +101,4 @@
 ### 📊 Stats
 
 <p><img align="center" src="https://streak-stats.demolab.com/?user=stollpy&theme=dracula&border_radius=4.5" alt="stollpy" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=stollpy&show_icons=true&theme=dracula" alt="stollpy" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stollpy&show_icons=true&layout=compact&theme=dracula" alt="stollpy" /></p>
 
