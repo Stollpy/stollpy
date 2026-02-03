@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Florian Darras</h1>
 
-<div style="display: flex; justify-content: center; align-items: center; background-color: #201154; height: 100vh;">
+<div style="display: flex; justify-content: center; align-items: center; background-color: #201154; height: 100vh; width: 100vh;">
     <img src="https://i.ibb.co/MkVGD9fF/Screenshot-2026-02-02-at-7-41-32-PM.png">
 </div>
 
