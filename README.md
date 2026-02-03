@@ -53,7 +53,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" align="left"  style="padding-right:10px;"/>
     </a> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40" align="left"  style="padding-right:10px;"/>
+        <img src="https://e7.pngegg.com/pngimages/407/190/png-clipart-laravel-new-logo-tech-companies-thumbnail.png" alt="laravel" width="40" height="40" align="left"  style="padding-right:10px;"/>
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40" align="left"  style="padding-right:10px;"/>
