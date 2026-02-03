@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian Darras</h1>
 
 <div style="display:flex; align-content: center; justify-content: center; background-color: #201154">
-    <img src="https://i.ibb.co/rff6rgT/DALL-E-2024-01-03-01-45-22-A-software-developer-sitting-on-a-chair-behind-a-desk-with-a-computer-scr.png" height="500">
+    <img src="https://i.ibb.co/MkVGD9fF/Screenshot-2026-02-02-at-7-41-32-PM.png" height="500">
 </div>
 
 <h3 align="center">I'm a 23 years old passionate software developer</h3>
