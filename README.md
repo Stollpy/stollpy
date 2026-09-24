@@ -13,9 +13,9 @@
     <img src="https://komarev.com/ghpvc/?username=stollpy&label=Profile%20views&color=28004f&style=flat" alt="stollpy" /> 
 </p>
 
-- 🔭 I currently work for **[Paratus Medical](https://paratusmedical.com)**
+- 🔭 I currently work for **[StollpyLabs](https://labs.stollpy.com)**
 
-- 📫 How to reach me **florian.darras@paratusmedical.com or [LinkedIn](https://www.linkedin.com/in/florian-darras-11500a208/)**
+- 📫 How to reach me **contact@labs.stollpy.com or [LinkedIn](https://www.linkedin.com/in/florian-darras-11500a208/)**
 
 - ⚡ Fun fact **I was 4th in France in sport shooting**
 
