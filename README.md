@@ -15,7 +15,7 @@
 
 - 🔭 I currently work for **[StollpyLabs](https://labs.stollpy.com)**
 
-- 📫 How to reach me **contact@labs.stollpy.com or [LinkedIn](https://www.linkedin.com/in/florian-darras-11500a208/)**
+- 📫 How to reach me **contact@stollpy.com or [LinkedIn](https://www.linkedin.com/in/florian-darras-11500a208/)**
 
 - ⚡ Fun fact **I was 4th in France in sport shooting**
 
